@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: RestApp
+Implementation-Version: 0.0.1
+Built-By: djcit
+Implementation-Vendor-Id: ie.cit.restapp
+Build-Jdk: 1.8.0_151
+Implementation-URL: http://projects.spring.io/spring-boot/data-rest-ap
+ p/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
